@@ -31,6 +31,6 @@ Based on the scatter plots, the following three prominent trends are clearly obs
 
     As expected, the weather becomes significantly warmer as one approaches the equator (0 Deg. Latitude). 
 
-    # There is no strong relationship between latitude and cloudiness. However, it is interesting to see that a strong band of cities sits at 0, 80, and 100% cloudiness.
+    There is no strong relationship between latitude and cloudiness. However, it is interesting to see that a strong band of cities sits at 0, 80, and 100% cloudiness.
 
-    # There is no strong relationship between latitude and wind speed. However, in northern hemispheres there is a set of cities with over 20 mph of wind.
+    There is no strong relationship between latitude and wind speed. However, in northern hemispheres there is a set of cities with over 20 mph of wind.
